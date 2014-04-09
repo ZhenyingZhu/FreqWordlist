@@ -1,0 +1,11 @@
+@Drop_tables.sql;
+@Create_table.sql;
+@Insert_Subjects.sql;
+@Insert_Articles_BelongTo.sql;
+@Insert_Words.sql;
+@Insert_Appear.sql;
+@Insert_Definition_canMean.sql;
+@Insert_NotionalWords_Relate.sql;
+@Insert_Users.sql;
+--@Insert_Learn.sql;
+purge recyclebin;

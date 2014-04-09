@@ -1,0 +1,1 @@
+sqlplus zz2283@ADB
